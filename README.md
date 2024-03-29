@@ -11,13 +11,13 @@ To get started, follow these instructions:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your_username/data-analysis-visualization.git
+git clone https://github.com/vedantcoder44088/Prodigy_DS_01.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd data-analysis-visualization
+cd Prodigy_DS_01
 ```
 
 3. Ensure you have Python and the required libraries installed. You can install them using pip:
@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn
 
 ## Exploratory Data Analysis (EDA)
 
-The Python script `analysis_visualization.ipynb` contains the following steps for EDA:
+The Python script `Prodigy_DS_01.ipynb` contains the following steps for EDA:
 
 - **Loading Data**: The script loads the dataset into a pandas DataFrame for further analysis.
   
