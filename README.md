@@ -60,10 +60,6 @@ The Python script `analysis_visualization.ipynb` contains the following steps fo
 - Open the Jupyter Notebook `analysis_visualization.ipynb` to view the analysis script.
 - Run each cell of the notebook to execute the code and visualize the results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
+----
 
 You can customize this README according to your specific project details and preferences. Feel free to add more sections or modify the existing ones as needed.
