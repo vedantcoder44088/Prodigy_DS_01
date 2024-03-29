@@ -61,5 +61,3 @@ The Python script `analysis_visualization.ipynb` contains the following steps fo
 - Run each cell of the notebook to execute the code and visualize the results.
 
 ----
-
-You can customize this README according to your specific project details and preferences. Feel free to add more sections or modify the existing ones as needed.
